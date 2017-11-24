@@ -1,2 +1,2 @@
 # COLLEGE-WEBSITE 
-LOGIN CODE 
+Sample code
